@@ -1,8 +1,4 @@
-# React + Vite
+# Lista de Tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esse código entrega a você uma lista de tarefas que pode ser modificada para adiconar as suas necessidades e horários. Com ela, adicione um novo trabalho que precisa ser feito, conclua aquilo que já foi feito e exclua tarefas antigas. Filtre as tarefas que deseja ver e mude a ordem que elas são mostradas.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
